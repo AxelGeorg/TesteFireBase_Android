@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471881240283",
+    "firebase_url": "https://myfirebaseaxel.firebaseio.com",
+    "project_id": "myfirebaseaxel",
+    "storage_bucket": "myfirebaseaxel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471881240283:android:210da459069f32c04086fe",
+        "android_client_info": {
+          "package_name": "br.ifsc.edu.myfirebaseaxel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471881240283-hvmvjugpuj6lavp488jc9tb2dk2gsjr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.ifsc.edu.myfirebaseaxel",
+            "certificate_hash": "bec76724069a30dd491ec36d7ee0be808b79c941"
+          }
+        },
+        {
+          "client_id": "471881240283-tca0ug2o86elkhma5vvvbkd33hlsbekk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGHLtjul_fJqs8Uvjk-dPgRf_dAHBX22c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471881240283-tca0ug2o86elkhma5vvvbkd33hlsbekk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
